@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+Pillow>=10.0
+tqdm>=4.65
+omegaconf>=2.3
+efficientnet-pytorch>=0.7.1
+tensorboard>=2.10
+numpy>=1.23
+matplotlib>=3.7
